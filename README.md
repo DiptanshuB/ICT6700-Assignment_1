@@ -16,14 +16,6 @@ The project uses the **Breast Cancer Wisconsin dataset** available through Sciki
 
 The dataset contains numerical clinical features and a binary target representing the cancer classification.
 
-### Algorithms
-
-* Logistic Regression
-* Support Vector Machine (SVM)
-* Decision Tree
-* Random Forest
-* K-Nearest Neighbors (KNN)
-
 ### Evaluation Metrics
 
 The models are evaluated using:
@@ -54,21 +46,6 @@ Prediction
 Performance Evaluation
    ↓
 Model Comparison
-```
-
-### Project Structure
-
-```text
-healthcare-disease-prediction-ml/
-│
-├── README.md
-├── notebooks/
-│   └── Disease_Prediction.ipynb
-├── results/
-│   ├── logistic_confusion_matrix.png
-│   ├── svm_confusion_matrix.png
-│   └── algorithm_comparison.png
-└── requirements.txt
 ```
 
 ### Tools & Technologies
